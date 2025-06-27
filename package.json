@@ -1,0 +1,16 @@
+{
+  "name": "node_05_ejs_3",
+  "version": "1.0.0",
+  "description": "Pruebas",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "principal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "mysql2": "^3.14.1"
+  }
+}
